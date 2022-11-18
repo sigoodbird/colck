@@ -1,0 +1,15 @@
+colock_rots\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+colock_rots\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+colock_rots\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+colock_rots\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+colock_rots\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+colock_rots\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+colock_rots\queue.o: ../Core/Inc/FreeRTOSConfig.h
+colock_rots\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+colock_rots\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+colock_rots\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+colock_rots\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+colock_rots\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+colock_rots\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+colock_rots\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+colock_rots\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

@@ -1,0 +1,13 @@
+colock_rots\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+colock_rots\heap_4.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+colock_rots\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+colock_rots\heap_4.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+colock_rots\heap_4.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+colock_rots\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+colock_rots\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+colock_rots\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+colock_rots\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+colock_rots\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+colock_rots\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+colock_rots\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+colock_rots\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
